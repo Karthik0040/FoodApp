@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Kinara</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="server_client_id">206967983326-01vove77hookfk2i7349nto8qbmeg8q5.apps.googleusercontent.com</string>
+</resources>
