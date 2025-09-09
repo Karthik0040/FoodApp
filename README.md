@@ -39,12 +39,7 @@ Navigation: React Navigation (Drawer & Stack navigators)
 
 ⚙️ Installation
 
-Clone the repo:
-
-git clone https://github.com/your-username/tasty-kinara.git
-cd tasty-kinara
-
-
+Clone the repo,
 Install dependencies:
 
 npm install
